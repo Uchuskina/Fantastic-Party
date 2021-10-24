@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+header, nav{
+    background-color: LightPink;
+    color: MediumBlue;
+    margin: 15px;
+}
+header a, nav a {
+    border: 2px solid green;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 15px;
+    padding: 1px;
+    color: black;
+}
+h1 {
+    color: Purple;
+    font-size: 55px;
+    text-align: center;
+}
+footer{
+    background-color: lightpink;
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    background-color: lightblue;
+    color: yellow;
+}
+
+.top {
+    border: 2px solid limegreen;
+    color: lime;
+    border-radius: 20px;
+    padding: 2px;
+    margin: 2px;
+    text-decoration: none;
+    background-color: green;
+}
